@@ -1,0 +1,11 @@
+{
+  "name": "svg-opacity",
+  "version": "1.0.0",
+  "description": "Set opacity on all fills in an svg file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dale Corns",
+  "license": "ISC"
+}
